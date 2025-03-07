@@ -1,4 +1,4 @@
-package HackerRank;
+package hackerRankChallenges;
 
 public class SingletonPattern {
     private static SingletonPattern instance = null;

@@ -1,4 +1,4 @@
-package HackerRank;
+package hackerRankChallenges;
 
 import java.util.*;
 

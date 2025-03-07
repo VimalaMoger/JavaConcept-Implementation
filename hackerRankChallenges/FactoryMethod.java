@@ -1,4 +1,4 @@
-package HackerRank;
+package hackerRankChallenges;
 
 interface Food {
     public String getType();
